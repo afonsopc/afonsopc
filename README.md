@@ -1,6 +1,10 @@
 # Hi, I'm Afonso 👋
 
-Software developer with 4+ years of full-stack experience, including 2 years of professional work using **JavaScript** and **Ruby on Rails**, building web applications, APIs, and system integrations. I also manage VPS and on-premise servers, ensuring reliability, scalability, and performance, while continuously studying programming and improving my technical skills. Core competencies include **full-stack development, backend engineering, systems programming, cloud infrastructure, containerisation, and DevOps workflows**.
+Software developer with 4+ years of full-stack experience, including 2 years of professional work using **JavaScript** and **Ruby on Rails**, building web applications, APIs, and system integrations.  
+
+I have delivered professional projects such as **company-wide dashboards**, **expense management systems with automated document generation**, **real-time error management workflows**, and **internal documentation interfaces**, leveraging technologies like **React, Ruby on Rails, Rust, Sidekiq**, and **Slack integrations**.  
+
+I also manage VPS and on-premise servers, ensuring reliability, scalability, and performance, while continuously studying programming and improving my technical skills.  
 
 I enjoy tackling both high-level web applications and low-level systems projects, combining creativity 🎨 with performance ⚡ and maintainability 🧰. I maintain my own platforms online with active users 👥, keeping hands-on experience in production environments.
 
