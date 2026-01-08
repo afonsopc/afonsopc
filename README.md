@@ -15,9 +15,9 @@ Some of my projects include:
 ![music](https://github.com/user-attachments/assets/aec06642-16e3-400b-8da0-3234a11bcae0)  
 - *Link shortener* inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt)) 🔗  
 ![short-links](https://github.com/user-attachments/assets/ea794a98-0c7b-490d-9e39-b694983dce1f)  
-- *Web server from scratch* in C++ (42 webserv project) 🖥️  
-- *Bash-like shell* in C (42 minishell project) 🐚  
 - *3D raycasting game* in plain C (42 cub3D project) 🎮  
 ![cub3dwolf3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
+- *Web server from scratch* in C++ (42 webserv project) 🖥️  
+- *Bash-like shell* in C (42 minishell project) 🐚  
 
 Through these projects, I’ve developed a strong understanding of both web and system-level development, focusing on **clean code, maintainable architectures, performance optimization, full-stack engineering, and deployment best practices**. I’m always exploring new tools, frameworks, and techniques to improve performance ⚡ and deliver impactful software 🚀.
