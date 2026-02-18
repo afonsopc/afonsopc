@@ -13,6 +13,8 @@ Some of my projects include:
 ![storage](https://github.com/user-attachments/assets/a4024213-48d8-485f-8155-5e1f01d44dad)  
 - *Music streaming app* similar to Spotify ([omelhorsite.pt](https://omelhorsite.pt)) 🎵  
 ![music](https://github.com/user-attachments/assets/aec06642-16e3-400b-8da0-3234a11bcae0)  
+- *Tune Shifter* - Browser extension for audio/video control with pitch preservation, reverb, and playback speed ([GitHub](https://github.com/afonsopc/tune-shifter)) 🎧  
+<img src="https://github.com/user-attachments/assets/fbdcc12c-7429-4eea-a1d9-c4f1363b28d0" width="600" />  
 - *3D raycasting game* in plain C ([42 cub3D Project](https://github.com/afonsopc/cub3d)) ([Play Here](https://omelhorsite.pt/games/cub3d)) 🎮  
 ![cub3dwolf3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
 - *Link shortener* inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt)) ([Try Here](https://omelhorsite.pt/pt/tools/shortlinks)) 🔗  
