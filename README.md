@@ -14,7 +14,8 @@ Some of my projects include:
 - *Music streaming app* similar to Spotify ([omelhorsite.pt](https://omelhorsite.pt)) 🎵  
 ![music](https://github.com/user-attachments/assets/aec06642-16e3-400b-8da0-3234a11bcae0)  
 - *Tune Shifter* - Browser extension for audio/video control with pitch preservation, reverb, and playback speed ([GitHub](https://github.com/afonsopc/tune-shifter)) 🎧  
-<video src="https://github.com/user-attachments/assets/fbdcc12c-7429-4eea-a1d9-c4f1363b28d0"></video>  
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-Install-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
 - *3D raycasting game* in plain C ([42 cub3D Project](https://github.com/afonsopc/cub3d)) ([Play Here](https://omelhorsite.pt/games/cub3d)) 🎮  
 ![cub3dwolf3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
 - *Link shortener* inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt)) ([Try Here](https://omelhorsite.pt/pt/tools/shortlinks)) 🔗  
