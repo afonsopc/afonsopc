@@ -1,4 +1,4 @@
-# Hi, I'm Afonso 👋
+# Hello, I'm Afonso 👋
 
 Software developer with 4+ years of full-stack experience, including 2+ years of professional work using **JavaScript**, **Ruby on Rails**, and familiar with **Python, C, C++, Rust, Go**, building web applications, APIs, and system integrations 🌐💻.  
 
