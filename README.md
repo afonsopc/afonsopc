@@ -10,7 +10,9 @@ Full-stack developer · JavaScript, Ruby on Rails, Rust · also at home in C, C+
 ![storage](https://github.com/user-attachments/assets/a4024213-48d8-485f-8155-5e1f01d44dad)  
 - **Spotify-style music streaming** ([omelhorsite.pt](https://omelhorsite.pt))  
 ![music](https://github.com/user-attachments/assets/aec06642-16e3-400b-8da0-3234a11bcae0)  
-- **[Tune Shifter](https://github.com/afonsopc/tune-shifter)** · browser extension for audio/video control with pitch preservation, reverb and playback speed · [Chrome Web Store](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
+- **[Tune Shifter](https://github.com/afonsopc/tune-shifter)** · browser extension for audio/video control with pitch preservation, reverb and playback speed  
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-Install-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
 - **[cub3D](https://github.com/afonsopc/cub3d)** · 3D raycasting game in plain C (42 project) · [play it in the browser](https://omelhorsite.pt/games/cub3d)  
 ![cub3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
 - **[Link shortener](https://omelhorsite.pt/pt/tools/shortlinks)** inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt))  
