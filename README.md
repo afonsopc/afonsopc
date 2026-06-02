@@ -1,26 +1,23 @@
-# Hello, I'm Afonso 👋
+# Afonso Coutinho
 
-Software developer with 4+ years of full-stack experience, including 2+ years of professional work using **JavaScript**, **Ruby on Rails**, and familiar with **Python, C, C++, Rust, Go**, building web applications, APIs, and system integrations 🌐💻.  
+Full-stack developer · JavaScript, Ruby on Rails, Rust · also at home in C, C++, Python and Go
 
-I have delivered professional projects such as **company-wide dashboards**, **expense management systems with automated document generation**, **real-time error management workflows**, and **internal documentation interfaces**, leveraging technologies like **React, Ruby on Rails, Rust, Sidekiq**, and **Slack integrations** ⚡📊.  
+4+ years building software, 2+ of them professionally: web apps, APIs and system integrations such as company-wide dashboards, expense management with automated document generation, real-time error workflows and internal documentation tools. I like working at both ends of the stack, from polished web interfaces to low-level systems code, and I deploy and maintain everything I ship, from the code down to the servers it runs on.
 
-I also manage VPS and on-premise servers 🖥️, ensuring reliability, scalability, and performance, while continuously studying programming 📚 and improving my technical skills.  
+## Projects
 
-I enjoy tackling both high-level web applications and low-level systems projects 🎨🛠️, combining creativity with performance and maintainability. I maintain my own platforms online with active users 👥, keeping hands-on experience in production environments.
-
-Some of my projects include:  
-- *Google Drive style file storage platform* ([omelhorsite.pt](https://omelhorsite.pt)) 📁  
+- **Google Drive-style file storage** ([omelhorsite.pt](https://omelhorsite.pt))  
 ![storage](https://github.com/user-attachments/assets/a4024213-48d8-485f-8155-5e1f01d44dad)  
-- *Music streaming app* similar to Spotify ([omelhorsite.pt](https://omelhorsite.pt)) 🎵  
+- **Spotify-style music streaming** ([omelhorsite.pt](https://omelhorsite.pt))  
 ![music](https://github.com/user-attachments/assets/aec06642-16e3-400b-8da0-3234a11bcae0)  
-- *Tune Shifter* - Browser extension for audio/video control with pitch preservation, reverb, and playback speed ([GitHub](https://github.com/afonsopc/tune-shifter)) 🎧  
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp)
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-Install-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
-- *3D raycasting game* in plain C ([42 cub3D Project](https://github.com/afonsopc/cub3d)) ([Play Here](https://omelhorsite.pt/games/cub3d)) 🎮  
-![cub3dwolf3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
-- *Link shortener* inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt)) ([Try Here](https://omelhorsite.pt/pt/tools/shortlinks)) 🔗  
+- **[Tune Shifter](https://github.com/afonsopc/tune-shifter)** · browser extension for audio/video control with pitch preservation, reverb and playback speed · [Chrome Web Store](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
+- **[cub3D](https://github.com/afonsopc/cub3d)** · 3D raycasting game in plain C (42 project) · [play it in the browser](https://omelhorsite.pt/games/cub3d)  
+![cub3d](https://github.com/user-attachments/assets/4d60ebc7-2494-4495-9d94-c24c127254ed)  
+- **[Link shortener](https://omelhorsite.pt/pt/tools/shortlinks)** inspired by Bit.ly ([omelhorsite.pt](https://omelhorsite.pt))  
 ![short-links](https://github.com/user-attachments/assets/ea794a98-0c7b-490d-9e39-b694983dce1f)  
-- *Web server from scratch* in C++ ([42 webserv Project](https://github.com/afonsopc/webserv)) 🖥️  
-- *Bash-like shell* in C ([42 minishell Project](https://github.com/afonsopc/minishell)) 🐚  
+- **[webserv](https://github.com/afonsopc/webserv)** · HTTP web server from scratch in C++ (42 project)
+- **[minishell](https://github.com/afonsopc/minishell)** · bash-like shell in C (42 project)
 
-Through these projects, I’ve developed a strong understanding of both web and system-level development, focusing on **clean code, maintainable architectures, performance optimization, full-stack engineering, and deployment best practices**. I’m always exploring new tools, frameworks, and techniques to improve performance ⚡ and deliver impactful software 🚀.
+## Contact
+
+[afonso@omelhorsite.pt](mailto:afonso@omelhorsite.pt) · [LinkedIn](https://www.linkedin.com/in/afonsopc) · [omelhorsite.pt](https://omelhorsite.pt)
