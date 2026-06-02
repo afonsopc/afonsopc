@@ -1,6 +1,6 @@
 # Afonso Coutinho
 
-Full-stack developer · JavaScript, Ruby on Rails, Rust · also at home in C, C++, Python and Go
+Full-stack developer · C, Ruby on Rails, JavaScript · familiar with Rust, C++, Python and Go
 
 4+ years building software, 2+ of them professionally: web apps, APIs and system integrations such as company-wide dashboards, expense management with automated document generation, real-time error workflows and internal documentation tools. I like working at both ends of the stack, from polished web interfaces to low-level systems code, and I deploy and maintain everything I ship, from the code down to the servers it runs on.
 
