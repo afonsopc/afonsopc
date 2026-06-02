@@ -1,6 +1,9 @@
 # Afonso Coutinho
 
-Full-stack developer · C, Ruby on Rails, JavaScript · familiar with Rust, C++, Python and Go
+[afonso@omelhorsite.pt](mailto:afonso@omelhorsite.pt) · [LinkedIn](https://www.linkedin.com/in/afonsopc) · [omelhorsite.pt](https://omelhorsite.pt)
+
+Full-stack developer · C, Ruby on Rails, JavaScript · familiar with Rust, C++, Python and Go  
+Docker · AWS · Terraform · Claude Code
 
 4+ years building software, 2+ of them professionally: web apps, APIs and system integrations such as company-wide dashboards, expense management with automated document generation, real-time error workflows and internal documentation tools. I like working at both ends of the stack, from polished web interfaces to low-level systems code, and I deploy and maintain everything I ship, from the code down to the servers it runs on.
 
@@ -19,7 +22,3 @@ Full-stack developer · C, Ruby on Rails, JavaScript · familiar with Rust, C++,
 ![short-links](https://github.com/user-attachments/assets/ea794a98-0c7b-490d-9e39-b694983dce1f)  
 - **[webserv](https://github.com/afonsopc/webserv)** · HTTP web server from scratch in C++ (42 project)
 - **[minishell](https://github.com/afonsopc/minishell)** · bash-like shell in C (42 project)
-
-## Contact
-
-[afonso@omelhorsite.pt](mailto:afonso@omelhorsite.pt) · [LinkedIn](https://www.linkedin.com/in/afonsopc) · [omelhorsite.pt](https://omelhorsite.pt)
