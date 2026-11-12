@@ -46,7 +46,7 @@ oms storage put report.pdf --to /Documents
 ## Other projects
 
 - **[Tune Shifter](https://github.com/afonsopc/tune-shifter)** · change the speed and pitch of any audio or video on the web, with reverb and volume control on desktop  
-[![App Store](https://img.shields.io/badge/App_Store-iPhone_&_iPad-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6832348789)
+[![App Store](https://img.shields.io/badge/Safari-App_Store-0D96F6?style=for-the-badge&logo=safari&logoColor=white)](https://apps.apple.com/app/id6832348789)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/tune-shifter/empnmbaeakhblbiffifgmojmkjiflklp)
 [![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-Install-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/tune-shifter)
 - **[cub3D](https://github.com/afonsopc/cub3d)** · 3D raycasting game in plain C (42 project) · [play it in the browser](https://omelhorsite.pt/games/cub3d)  
