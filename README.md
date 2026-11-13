@@ -10,38 +10,40 @@ A platform I build and run myself, on my own servers in Portugal, with apps for 
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6830411809)
 
-<table>
-<tr>
-<td width="50%"><img src="assets/oms-mail.png" alt="Mail"><br><b>Email</b> · an <code>@omelhor.site</code> address with its own inbox</td>
-<td width="50%"><img src="assets/oms-storage.png" alt="Storage"><br><b>Storage</b> · files and folders, share links, trash and an encrypted vault</td>
-</tr>
-<tr>
-<td><img src="assets/oms-music-dark.png" alt="OMS Music"><br><b><a href="https://music.omelhorsite.pt">OMS Music</a></b> · its own music app: library, playlists and mixes</td>
-<td><img src="assets/oms-messages.png" alt="Messages"><br><b>Messages and calls</b> · end-to-end encrypted, voice and video</td>
-</tr>
-</table>
+**Email** · an `@omelhor.site` address with its own inbox
 
-<img src="assets/oms-ios-chat.jpg" alt="Chat in the iPhone app" width="260" align="right">
+![Email](assets/oms-mail.png)
 
-**On iPhone** the messages and calls are native: calls ring through CallKit like a normal phone call.
+**Storage** · files and folders, share links, trash and an encrypted vault
+
+![Storage](assets/oms-storage.png)
+
+**[OMS Music](https://music.omelhorsite.pt)** · its own music app: library, playlists and mixes
+
+![OMS Music](assets/oms-music-dark.png)
+
+**Messages and calls** · end-to-end encrypted, voice and video. On iPhone they are native: calls ring through CallKit like a normal phone call.
+
+![Messages](assets/oms-messages.png)
+
+<p align="center"><img src="assets/oms-ios-chat.jpg" alt="Chat in the iPhone app" width="240"></p>
 
 ### For agents
 
 Everything is reachable from a terminal or an AI agent, with the same account:
 
-- **CLI** · [`@omelhorsite/cli`](https://www.npmjs.com/package/@omelhorsite/cli), prints JSON when piped and has a stable exit code contract  
-  `brew tap afonsopc/oms https://github.com/afonsopc/homebrew-oms && brew install oms` (also on a [signed APT repository](https://github.com/afonsopc/oms-packages) and npm)
-- **MCP server** · [`@omelhorsite/mcp`](https://www.npmjs.com/package/@omelhorsite/mcp), two tools (`search` and `execute`): the model reads the SDK types and writes TypeScript against them  
-  `claude mcp add omelhorsite --env OMS_TOKEN=... -- bunx @omelhorsite/mcp`
-- **SDK** · [`@omelhorsite/sdk`](https://github.com/afonsopc/omelhorsite-sdk), TypeScript, runs in browsers, Node, Bun and Cloudflare Workers
+- **CLI** · [`@omelhorsite/cli`](https://www.npmjs.com/package/@omelhorsite/cli), prints JSON when piped and has a stable exit code contract. On Homebrew, a [signed APT repository](https://github.com/afonsopc/oms-packages) and npm.
+- **MCP server** · [`@omelhorsite/mcp`](https://www.npmjs.com/package/@omelhorsite/mcp), two tools (`search` and `execute`): the model reads the SDK types and writes TypeScript against them.
+- **SDK** · [`@omelhorsite/sdk`](https://github.com/afonsopc/omelhorsite-sdk), TypeScript, runs in browsers, Node, Bun and Cloudflare Workers.
 
 ```sh
+brew tap afonsopc/oms https://github.com/afonsopc/homebrew-oms
+brew install oms
 oms auth login
 oms storage ls /
-oms storage put report.pdf --to /Documents
-```
 
-<br clear="right">
+claude mcp add omelhorsite --env OMS_TOKEN=... -- bunx @omelhorsite/mcp
+```
 
 ## Other projects
 
